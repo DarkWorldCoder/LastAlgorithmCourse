@@ -1,4 +1,4 @@
-
+// Root, Left,Right
 function walk(curr:BinaryNode<number>|null,path:number[]):number[]{
 
     if(!curr){
